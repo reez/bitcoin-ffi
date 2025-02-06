@@ -58,6 +58,7 @@ dictionary TxIn {
 enum Network {
   "Bitcoin",
   "Testnet",
+  "Testnet4",
   "Signet",
   "Regtest",
 };
